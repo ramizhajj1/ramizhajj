@@ -1,9 +1,10 @@
 # Ramiz Hajj
-![Profile Picture](path/to/profile_picture.png)
+![Profile Picture](self.jpg)
 
 ## About Me
-Hi, I'm Ramiz! I'm a programmer and student. Feel Free to contact me!
-   > Jump to [Contact](###Contact)
+Hi, I'm Ramiz! I'm a programmer and student.
+  **Feel Free to contact me!**
+   > Jump to [Contact section](#contact)
 
 ## Background
 I am a fourth year math and computer science maor, pursuing a career in software engineering. I am currently in a computational biology lab at the **Salk Institute** under **Dr. Talmo Pereira**. I will also be interning at **Northrop Grumman** this summer as a software engineer.
