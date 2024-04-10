@@ -1,4 +1,5 @@
-# My User Page
+# Ramiz Hajj
+![Profile Picture](path/to/profile_picture.png)
 
 ## About Me
 Hi, I'm Ramiz! I'm a programmer and student. Feel Free to contact me!
@@ -52,6 +53,15 @@ Here is a link to the lab I am in. **External link**:
                 }
             
    > ```
+
+**Screenshots for lab **:
+   > View [screenshots](screenshots.md) for necessary screenshots for the lab.
+
+
+**Task list**:
+   - [x] Create User Page
+   - [ ] Add projects to User Page
+   - [ ] Update About Me section
 
 ### Contact
 You can reach me via email at [rhajj@ucsd.edu] or connect with me on [LinkedIn](linkedin.com/ramizhajj).
