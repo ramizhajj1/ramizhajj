@@ -65,4 +65,4 @@ Here is a link to the lab I am in. **External link**:
    - [ ] Update About Me section
 
 ### Contact
-You can reach me via email at [rhajj@ucsd.edu] or connect with me on [LinkedIn](linkedin.com/ramizhajj).
+You can reach me via email at [rhajj@ucsd.edu] or connect with me on [LinkedIn](www.linkedin.com/in/ramizhajj).
